@@ -1,0 +1,24 @@
+.footer{
+    background-color:rgb(1, 1, 32) ;
+}
+.texting{
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 10px;
+}
+.yyy{
+    display: flex;
+}
+.fff{
+    display: block;
+}
+    .ddd{
+        width: 130px;
+        margin-bottom: 10px;
+    }
+.first-line{
+    display: flex;
+}
+
+
